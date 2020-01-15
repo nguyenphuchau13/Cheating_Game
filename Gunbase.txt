@@ -1,0 +1,5 @@
+healt
+0x029EA118 + F8
+base 50F4F4
+gum 
+0x027EA54C
